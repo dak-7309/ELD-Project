@@ -1,8 +1,8 @@
-# ELD-Project
+# Interface given QFunction with Zynq
 Endsem lab based assignment
 
 
-Interface the given Q-Function with Zynq and report the execution time on processor using the inbuilt Zynq timer. 
+Report the execution time on processor using the inbuilt Zynq timer. 
 Also, compare the execution times for PL and PS:
 m = X/T;
 V= X/T-m^2;
